@@ -1,0 +1,6 @@
+{
+  "name": "ColorCraft",
+  "description": "Professional Color Palette and Gradient Studio for designers and developers. Generate harmonious palettes, craft custom gradients, verify WCAG contrast, and export production-ready CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
